@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: MultifunctionalTelegramApplication
+bot:
+    token: 7446067155:AAHPE39mC8Lhd97UI5MS8dbyrRPFX8UoqFg
